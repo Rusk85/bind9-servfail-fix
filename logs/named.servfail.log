@@ -1,0 +1,60 @@
+Feb 04 22:45:25 nas named[13865]: client @0x7f2a541ad880 192.168.1.25#53094 (www.intel.com): query failed (SERVFAIL) for www.intel.com/IN/A at query.c:8298
+Feb 04 22:45:26 nas named[13865]: client @0x7f2a3403ebc0 192.168.1.25#53308 (certificates.intel.com): query failed (SERVFAIL) for certificates.intel.com/IN/A at query.c:8298
+Feb 04 22:46:01 nas named[13865]: client @0x7f2a54182440 192.168.1.12#62693 (au.download.windowsupdate.com): query failed (SERVFAIL) for au.download.windowsupdate.com/IN/A at query.c:8298
+Feb 04 23:01:40 nas named[13865]: client @0x7f2a4804cec0 192.168.1.25#58790 (www.intel.com): query failed (SERVFAIL) for www.intel.com/IN/A at query.c:8298
+Feb 04 23:01:41 nas named[13865]: client @0x7f2a3403ebc0 192.168.1.25#53859 (certificates.intel.com): query failed (SERVFAIL) for certificates.intel.com/IN/A at query.c:8298
+Feb 04 23:17:14 nas named[13865]: client @0x7f2a4804cec0 192.168.1.25#50230 (play.google.com): query failed (SERVFAIL) for play.google.com/IN/A at query.c:8298
+Feb 04 23:19:41 nas named[13865]: client @0x7f2a541ca600 192.168.1.25#59745 (pop.gmx.net): query failed (SERVFAIL) for pop.gmx.net/IN/A at query.c:8298
+Feb 04 23:19:41 nas named[13865]: client @0x7f2a38011920 192.168.1.25#62780 (pop.gmx.net): query failed (SERVFAIL) for pop.gmx.net/IN/A at query.c:8298
+Feb 04 23:20:04 nas named[13865]: client @0x7f2a54056d40 192.168.1.25#58701 (plus.google.com): query failed (SERVFAIL) for plus.google.com/IN/A at query.c:8298
+Feb 04 23:20:05 nas named[13865]: client @0x7f2a541ad880 192.168.1.25#56809 (www.intel.com): query failed (SERVFAIL) for www.intel.com/IN/A at query.c:8298
+Feb 04 23:20:06 nas named[13865]: client @0x7f2a4804cec0 192.168.1.25#59629 (certificates.intel.com): query failed (SERVFAIL) for certificates.intel.com/IN/A at query.c:8298
+Feb 04 23:20:06 nas named[13865]: client @0x7f2a4803e4c0 192.168.1.25#55681 (clients5.google.com): query failed (SERVFAIL) for clients5.google.com/IN/A at query.c:8298
+Feb 04 23:20:44 nas named[13865]: client @0x7f2a3c073810 192.168.1.25#57252 (visualstudio-devdiv-c2s.msedge.net): query failed (SERVFAIL) for visualstudio-devdiv-c2s.msedge.net/IN/A at query.c:8298
+Feb 04 23:20:57 nas named[13865]: client @0x7f2a4c00bb60 192.168.1.25#52600 (settings-win.data.microsoft.com): query failed (SERVFAIL) for settings-win.data.microsoft.com/IN/A at query.c:8298
+Feb 04 23:21:10 nas named[13865]: client @0x7f2a5419f1c0 192.168.1.25#55859 (www.intel.com): query failed (SERVFAIL) for www.intel.com/IN/A at query.c:8298
+Feb 04 23:21:11 nas named[13865]: client @0x7f2a54190b00 192.168.1.25#55510 (certificates.intel.com): query failed (SERVFAIL) for certificates.intel.com/IN/A at query.c:8298
+Feb 04 23:21:15 nas named[13865]: client @0x7f2a3801ffe0 127.0.0.1#47766 (api.couchpota.to): query failed (SERVFAIL) for api.couchpota.to/IN/AAAA at query.c:8298
+Feb 04 23:21:15 nas named[13865]: client @0x7f2a54156ac0 127.0.0.1#47766 (api.couchpota.to): query failed (SERVFAIL) for api.couchpota.to/IN/A at query.c:8298
+Feb 04 23:22:15 nas named[13865]: client @0x7f2a38011920 192.168.1.25#54071 (www.intel.com): query failed (SERVFAIL) for www.intel.com/IN/A at query.c:8298
+Feb 04 23:22:16 nas named[13865]: client @0x7f2a541ca600 192.168.1.25#53034 (certificates.intel.com): query failed (SERVFAIL) for certificates.intel.com/IN/A at query.c:8298
+Feb 04 22:23:16 nas named[13865]: success resolving 'newshost.co.za/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:23:16 nas named[13865]: success resolving 'nzb.cat/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:29:39 nas named[13865]: success resolving 'imap.googlemail.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:29:39 nas named[13865]: success resolving 'alt3-mtalk.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:34:52 nas named[13865]: success resolving 'v10.vortex-win.data.microsoft.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn2.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn1.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn0.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn3.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:46:27 nas named[13865]: success resolving 'www.intel.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:46:27 nas named[13865]: success resolving 'a243.d.akamai.net/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:47:32 nas named[13865]: success resolving 'a961.g.akamai.net/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:47:32 nas named[13865]: success resolving 'a243.d.akamai.net/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:01:13 nas named[13865]: success resolving 'plus.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'imap.gmail.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'gmail-imap.l.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'gmail-imap.l.google.com/AAAA' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'googleapis.l.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'googleapis.l.google.com/AAAA' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:15:06 nas named[13865]: success resolving 'api.oznzb.com/AAAA' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:23:16 nas named[13865]: success resolving 'newshost.co.za/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:23:16 nas named[13865]: success resolving 'nzb.cat/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:29:39 nas named[13865]: success resolving 'imap.googlemail.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:29:39 nas named[13865]: success resolving 'alt3-mtalk.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:34:52 nas named[13865]: success resolving 'v10.vortex-win.data.microsoft.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn2.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn1.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn0.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:36:15 nas named[13865]: success resolving 'encrypted-tbn3.gstatic.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:46:27 nas named[13865]: success resolving 'www.intel.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:46:27 nas named[13865]: success resolving 'a243.d.akamai.net/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:47:32 nas named[13865]: success resolving 'a961.g.akamai.net/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 22:47:32 nas named[13865]: success resolving 'a243.d.akamai.net/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:01:13 nas named[13865]: success resolving 'plus.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'imap.gmail.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'gmail-imap.l.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'gmail-imap.l.google.com/AAAA' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'googleapis.l.google.com/A' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:12:59 nas named[13865]: success resolving 'googleapis.l.google.com/AAAA' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets
+Feb 04 23:15:06 nas named[13865]: success resolving 'api.oznzb.com/AAAA' (in '.'?) after reducing the advertised EDNS UDP packet size to 512 octets

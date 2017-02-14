@@ -1,0 +1,7 @@
+[Match]
+Host=nas
+
+[NetDev]
+Name=br0
+Kind=bridge
+MACAddress=52:d4:72:9d:eb:d7

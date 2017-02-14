@@ -1,0 +1,14 @@
+[Match]
+Name=br0
+#Host=nas
+
+[Network]
+#Address=192.168.1.35/24
+#Gateway=192.168.1.1
+DNS=192.168.1.35
+
+[Address]
+Address=192.168.1.35/24
+
+[Route]
+Gateway=192.168.1.1

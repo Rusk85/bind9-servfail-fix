@@ -1,0 +1,13 @@
+[Match]
+Name=enp6s0
+#Host=nas
+
+[Network]
+#DHCP=ipv4
+DNS=192.168.1.35
+
+[Address]
+Address=192.168.1.33/24
+
+[Route]
+Gateway=192.168.1.1
